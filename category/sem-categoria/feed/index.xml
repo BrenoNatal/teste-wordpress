@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sem categoria &#8211; EJCM</title>
-	<atom:link href="http://brenonatal.github.io/teste-wordpress/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
-	<link>http://brenonatal.github.io/teste-wordpress</link>
+	<atom:link href="/brenonatal.github.io/teste-wordpress/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>/brenonatal.github.io/teste-wordpress</link>
 	<description></description>
 	<lastBuildDate>Tue, 25 Apr 2023 22:29:24 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2.1</generator>
 	<item>
 		<title>Olá, mundo!</title>
-		<link>http://brenonatal.github.io/teste-wordpress/2023/04/25/ola-mundo/</link>
-					<comments>http://brenonatal.github.io/teste-wordpress/2023/04/25/ola-mundo/#comments</comments>
+		<link>/brenonatal.github.io/teste-wordpress/2023/04/25/ola-mundo/</link>
+					<comments>/brenonatal.github.io/teste-wordpress/2023/04/25/ola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2023 22:29:24 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">http://brenonatal.github.io/teste-wordpress/?p=1</guid>
+		<guid isPermaLink="false">/brenonatal.github.io/teste-wordpress/?p=1</guid>
 
 					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
 										<content:encoded><![CDATA[
 <p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://brenonatal.github.io/teste-wordpress/2023/04/25/ola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>/brenonatal.github.io/teste-wordpress/2023/04/25/ola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

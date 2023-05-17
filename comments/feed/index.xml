@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre EJCM	</title>
-	<atom:link href="http://brenonatal.github.io/teste-wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://brenonatal.github.io/teste-wordpress</link>
+	<atom:link href="/brenonatal.github.io/teste-wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/brenonatal.github.io/teste-wordpress</link>
 	<description></description>
 	<lastBuildDate>Tue, 25 Apr 2023 22:29:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
-		<link>http://brenonatal.github.io/teste-wordpress/2023/04/25/ola-mundo/#comment-1</link>
+		<link>/brenonatal.github.io/teste-wordpress/2023/04/25/ola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2023 22:29:24 +0000</pubDate>
-		<guid isPermaLink="false">http://brenonatal.github.io/teste-wordpress/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/brenonatal.github.io/teste-wordpress/?p=1#comment-1</guid>
 
 					<description><![CDATA[Oi, isto é um comentário.
 Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.
